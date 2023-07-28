@@ -7,6 +7,7 @@
 ### Task and Purpose?
 
 - Deliver a clear and concise guide of resources available to Veterans that they can leverage to help start a new career, hobby, or passion with no paywalls.
+- 
 - Provide a place for Vets to reach out to those who've gone down a similar path, no one gets left behind.
 
 ### Is this just for vets trying to break into Software Engineering?
