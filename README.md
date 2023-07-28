@@ -18,7 +18,7 @@
 
 - Having to switch careers is stressful. Add in juggling family obligations, coping with your service connected disabilities, life in general, and it can be real easy to start to lose hope. Let me be the first to say, 
 
-- **you are not alone**.
+- **You are not alone**.
 
 ### What can I expect from SierraWhiskeyEcho in the future?
 - [x] Create the repo
