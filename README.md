@@ -18,8 +18,6 @@
 
 - Having to switch careers is stressful. Add in juggling family obligations, coping with your service connected disabilities, life in general, and it can be real easy to start to lose hope. Let me be the first to say, 
 
-- **You are not alone**.
-
 ### What can I expect from SierraWhiskeyEcho in the future?
 - [x] Create the repo
 - [ ] GitHub Pages static site with resources, links, blogs
@@ -29,13 +27,10 @@
 - [ ] Better documentation
 - [ ] t-shirts? stickers? patches? coffee mugs?!
 
-
 ### Again, you are not alone, you matter
 
 - There's help out there and the [Veterans Crisis Line](https://www.veteranscrisisline.net/) is available 24/7, 365. *Dial 988, press 1*
 
-- Reach out on Discord, create an issue, send us an e-mail, we're here.
-
-- *It. Gets. Better*
+- Reach out on Discord, create an issue, send us an e-mail (SierraWhiskeyEcho_support@proton.me), we're here.
 
 
