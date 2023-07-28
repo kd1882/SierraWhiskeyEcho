@@ -24,7 +24,8 @@ Having to switch careers is stressful. Add in juggling family obligations, copin
 
 
 ### Again, you are not alone, you matter
-- There is help out there and the [Veterans Crisis Line](https://www.veteranscrisisline.net/) is available 24/7, 365. *Dial 988, press 1*
+- There's help out there and the [Veterans Crisis Line](https://www.veteranscrisisline.net/) is available 24/7, 365. *Dial 988, press 1*
 - Reach out on Discord, create an issue, send us an e-mail, we're here.
+- *It. Gets. Better*
 
 
